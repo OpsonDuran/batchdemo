@@ -1,0 +1,2 @@
+Crear carpetas C:\input y C:\ouput
+en el directorio C:\input crear un txt con tus datos y su nombre Empleados.txt por ejemplo
